@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API Package Measurement Conversion.iml" filepath="$PROJECT_DIR$/.idea/API Package Measurement Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/API-Package-Measurement-Conversion/API-Package-Measurement-Conversion.iml" filepath="$PROJECT_DIR$/API-Package-Measurement-Conversion/API-Package-Measurement-Conversion.iml" />
+    </modules>
+  </component>
+</project>
