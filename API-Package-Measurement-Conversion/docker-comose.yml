@@ -1,0 +1,7 @@
+version: "3"
+services:
+  api:
+    build: .
+    image: tttapi
+    ports:
+      - "8080:8080"
